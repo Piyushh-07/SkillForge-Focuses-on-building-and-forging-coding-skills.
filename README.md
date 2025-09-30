@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudyNotion 📚🎓
 
 A fully functional ed-tech platform that enables users to create, consume, and rate educational content.
@@ -103,3 +104,7 @@ Utilized hooks for state management and dynamic behavior:
 
 * GitHub: [Piyushh-07](https://github.com/Piyushh-07)
 * LinkedIn: [Piyush Yadav](https://www.linkedin.com/in/piyush-yadav-9026-/)
+=======
+# SkillForge-Focuses-on-building-and-forging-coding-skills.
+Focuses on building and forging coding skills.
+>>>>>>> 45ac6efa6be2cafc4d2acbbd21dbc4cfa9d850c3
